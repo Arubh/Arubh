@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I am Aditya Raj</h1>
-<h3 align="center">A zealous full stack from India</h3>
+<h3 align="center">A zealous full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arubh&label=Profile%20views&color=0e75b6&style=flat" alt="arubh" /> </p>
 

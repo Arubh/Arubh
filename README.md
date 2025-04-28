@@ -1,5 +1,12 @@
-# 💫 About Me:
-I am a Aditya, a Software developer from India.
+# Know Me:
+{
+    "name": "John",
+    "location": "Germany",
+    "field_of_study": "Science",
+    "hobbies": ["debugging", "reading", "sketching", "traveling"]
+}
+  
+
 
 
 ## 🌐 Social Presence:

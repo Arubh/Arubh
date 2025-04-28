@@ -15,7 +15,6 @@ I am a Aditya, a Software developer from India.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arubh&theme=blue_navy&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo

@@ -1,10 +1,18 @@
 # Know Me:
+```json
 {
-    "name": "John",
-    "location": "Germany",
-    "field_of_study": "Science",
-    "hobbies": ["debugging", "reading", "sketching", "traveling"]
+  "name": "John",
+  "location": "Germany",
+  "field_of_study": "Science",
+  "hobbies": [
+    "debugging",
+    "reading",
+    "sketching",
+    "traveling"
+  ]
 }
+```
+
   
 
 

@@ -1,4 +1,4 @@
-# <span style="color:red;">Know me</span>
+# Know me
 ```json
 {
   "name": "Aditya Raj",
@@ -12,7 +12,7 @@
 
 
 
-## 🌐 Social Presence:
+## Social Presence:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaraj2108) 
 
 # 💻 Tech Stack:

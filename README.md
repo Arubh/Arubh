@@ -2,7 +2,7 @@
 I am a Aditya, a Software developer from India.
 
 
-## 🌐 Socials:
+## 🌐 Social Presence:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaraj2108) 
 
 # 💻 Tech Stack:

@@ -13,7 +13,7 @@
 
 
 ## Social Presence:
-[<img src="https://img.shields.io/badge/SamalaSumanth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://uk.linkedin.com/in/adityaraj2108)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://uk.linkedin.com/in/adityaraj2108)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aditya2108raj@gmail.com"/>](mailto:aditya2108raj@gmail.com)
 
 # 💻 Tech Stack:
